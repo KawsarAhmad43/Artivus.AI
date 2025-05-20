@@ -1,7 +1,7 @@
 # 🎨 Artivus AI – Designer AI Assistant
-
-![Untitled(2)](https://github.com/user-attachments/assets/accce6d6-fee2-4fad-a39e-cbdae5576e4c)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/accce6d6-fee2-4fad-a39e-cbdae5576e4c" alt="Untitled(2)" width="300"/>
+</p>
 
 **Artivus AI** is an intelligent AI-powered assistant crafted to support designers in generating unique, aesthetic, and practical design concepts. Whether you're an **Interior Designer**, **Furniture Designer**, or a **Conceptual Object Designer**, Artivus AI empowers your creativity with smart suggestions, material selection, and real-time visualization ideas.
 
