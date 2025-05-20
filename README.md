@@ -1,4 +1,3 @@
-
 <h1 align="center">🎨 Artivus AI – Designer AI Assistant</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/accce6d6-fee2-4fad-a39e-cbdae5576e4c" alt="Untitled(2)" width="300"/>
@@ -67,7 +66,7 @@ Creator of *Artivus AI*
 
 📧 **Email:** kawsarahmad.dev@gmail.com  
 🐙 **GitHub:** [KawsarAhmad43](https://github.com/KawsarAhmad43)  
-🌐 **Portfolio:** [Coming Soon]
+🌐 **Portfolio:** [Kawsar Ahmad](https://kawsarahmad43.github.io/me/)   
 
 ---
 
