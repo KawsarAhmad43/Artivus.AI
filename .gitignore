@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Ollama model cache
+*.ollama/
+
+# IDE/editor settings
+.vscode/
+.idea/
