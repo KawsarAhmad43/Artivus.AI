@@ -97,7 +97,7 @@ For commercial licensing, please contact the developer.
 - 3D model generation  
 - Export to CAD or Sketch formats  
 - Collaborative design workspace
-
+- Integrate Stable Diffusion
 ---
 
 
